@@ -1,0 +1,38 @@
+Questions on Kurzarbeitergeld
+Alexander Herzog-Stein
+27 February 2020
+
+--- I am writing about how rather than offering an emergency UBI, some EU countries are instead mimicking Germany's Kurzarbeitergeld system, in which the government pays employers to pay their partially laid-off workers around 60% of normal pay for a limited time. What advantages and disadvantages can you think of for a system like this, as opposed to a universal basic income?
+
+Germany’s Kurzarbeitergeld is a well-established instrument of active labour market policy. It has already existed since 1918. Similar instruments exist in other European countries, like e.g. Austria, Switzerland and Italy. Its main advantage is that it is well-targeted to those companies and workers in need. Furthermore, it is well administered and relatively easy to adjust to specifics of a crisis situation. For example, during the COVID-19-pandemic the criterias to become eligible for Kurzarbeitergeld have been made more favorable. Additionally, it has been made much more financially attractive for companies to use Kurzarbeitergeld to safeguard employment. This is necessary because in contrast to previous recessions, this time the services sector with its many small businesses is economically hit much more severe than in the past and their economic situation is much more fragile than that of a big company. 
+With respect to an emergency UBI my main concern is that in contrast to the Kurzarbeitergeld it is not well-targeted and therefore unnecessarily expensive. Why should you pay a person like me, who is very busy at the moment giving interviews, advising politicians and studying this economic crisis a monthly cheque via an UBI when I receive a good salary and have a safe job. A better alternative is then –similar to the Austrian Kurzarbeitergeld to use this extra cash and increase the replacement rate for those workers receiving Kurzarbeitergeld who already had a low income before the recession and for whom 60% of their working income is not enough to support their families.
+
+--- What are the advantages of a UBI and/or Kurzarbeitergeld specifically as they relate to preventing the spread of COVID-19?
+
+The advantage is that they provide financial support for workers who are severely hit by the economic crisis as a consequence of the spread of COVID-19. If the system is well-established it also provides this financial support very quickly. The advantage of the Kurzarbeitergeld is additionally that it keeps workers employed and by reducing labor costs it saves many jobs and small businesses which would otherwise not survive this severe crisis.
+
+--- Does a system like Kurzarbeitergeld, which is designed to keep employer-employee relationships intact, potentially keep people from moving to other opportunities? What are some ramifications of this?
+
+I was never convinced about this argument against the use of Kurzarbeitergeld. Where are these other opportunities people are prevented from moving to in an economic crisis? At the moment for most workers there is only the alternative between Kurzarbeitergeld and unemployment. In this case I would always choose Kurzarbeitergeld.
+In my opinion based on reading the economic literature the best time to move jobs is during booms not recessions. During booms so called job ladders are the best way for people to move jobs and improve their economic situation. We also know it is much easier to find a new and better job out of employment and not out of unemployment. Unemployment spells cause scars in people’s working careers.
+
+--- Some people have said that Kurzarbeitergeld keeps employers from simply laying off most of their workers, then selectively rehiring at lower staffing levels after a crisis has passed, and that a UBI doesn't do that. Do you agree?
+
+I agree with that in so far that in contrast to a UBI-scheme a major advantage of Kurzarbeitergeld is that it keeps workers in employment. Additionally it safes employers time to rehire staff when the economy starts to recover. Germany after the Great Recession is a good example for this. When the recovery of the world economy started after the Great Recession German companies where immediately ready to supply the increasing global demand because they had their well-trained work force at hand and ready to start working from day one.
+
+--- Regardless of whether a country goes with Kurzarbeitergeld or a UBI, what happens when the viral infections start to decline and the payments stop? 
+
+It is crucial to give confidence to businesses and people that if the worst of the COVID-19 crisis is over governments will do anything to support the economic recovery by boosting growth. Therefore, one important thing national governments can do already is to prepare to have economic-stimulus programmes ready, when we can restart the global economy. Ideally these stimulus programmes should be targeted to tackle other global challenges, like e.g. climate change, and additionally should help small and medium-sized businesses in the service sector, like shops, hair dressers, restaurants, etc., to make up for some of their heavy losses.
+With respect to the Kurzarbeitergeld it would be a misunderstanding to think that the national Government decides when payments stop. In Germany on the micro level it is checked whether companies still fulfil the criteria for using Kurzarbeit. At the moment these criteria are more generous than usual and the German government has already announced that these more generous criteria will stay in place until the end of 2020. Thus, giving companies and workers hopefully enough time to exit from the Kurzarbeitergeld.
+
+--- How does Europe's existing social safety net act as an advantage when choosing remedies for the virus-related economic slowdown? Are there any ways in which it acts as a disadvantage?
+
+Europe’s existing social safety net provides additional support for those unfortunate to lose their jobs despite all political efforts to safeguard employment. For those workers on low incomes it provides financial support in addition to the Kurzarbeitergeld. Furthermore, having an existing social safety net makes it easier for the government to help other vulnerable groups like the self-employed or owners of small businesses. Just this week, the German government passed a law making it temporarily easier for these groups to receive support from our social security system. Again, like the Kurzarbeitergeld, I think that is an example for a well-targeted policy response to help a vulnerable group of people in these difficult economic circumstances.
+
+--- What is the current status of universal basic income in Germany? Is there any legislation on the state or federal level that has put a permanent or temporary UBI forward? (If so, would you be able to put me in contact with the legislation's sponsors?)
+
+To my knowledge there is no legislation planned at the moment to introduce a UBI-scheme in Germany. However, that might be due to a lack of knowledge. I know that there are some discussions going on in the Green Party and the party called The Left. Unfortunately I do not know any proponents of the idea of a UBI for Germany well. 
+
+--- Are there any big questions I'm forgetting to ask?
+
+No, there are not.
