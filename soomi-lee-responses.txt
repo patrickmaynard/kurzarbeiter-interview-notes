@@ -1,0 +1,62 @@
+-- I am writing about how rather than offering an emergency UBI, some E.U. countries are instead mimicking Germany's Kurzarbeitergeld system, in which the government pays employers to pay their partially laid-off workers around 60% of normal pay for a limited time. What advantages and disadvantages can you think of for a system like this, as opposed to a UBI?
+
+I want you to know that how I imagine emergency UBI is an addition to other benefits (unemployment insurance, food stamps, paid sick leaves, mortgage freeze, temporary eviction ban), not as a substitute. If it should be one or the other, workers who are eligible for a Kurzarbeitergeld-like system would prefer it to UBI because I don't think UBI can be large enough for these workers. 
+
+The reason I think emergency UBI (as an additional emergency tool to all existing benefits) makes sense is that it is administratively simple because there is no means testing and, therefore, can be administered fast. So it can be delivered to people when the pandemic hits initially. Emergency UBI is not going to be enough for weeks and months, but at least people can have some cash cushion until other benefits are being processed. Usually, for those employment-related programs, you have to submit an application and supporting documents to prove that the business is hurting, and therefore you need public assistance. It might take a long time because all non-essential businesses are impacted simultaneously. The application volume usually overloads the system. In this document, it says that "the short-time allowance program can be granted IF an agreement has been reached by the employer and the employee representative body, or by the employer and the employee affected… and the cut in working hours must be caused by economic reasons or circumstances, the cut in working hours must be unavoidable…" and so on. By the time businesses apply, submit supporting documents, the government reviews them, approves them, or reject them and gets an appeal, and so on, it's too late. 
+
+For instance, this week only (and it is only Wednesday), 1 million unemployment claims were filed in California, so the state government expects a huge delay. It is especially challenging because government employees are working from home. 
+
+(I got the news this morning, and it says this week's unemployment claims is over 3.3 million. The Fed estimates the 2nd quarter unemployment rate would be 32%! So good luck with processing them fast.)
+
+In South Korea, it is not exactly "universal." Still, the city of Seoul (a population of 10 million, bigger than entire Austria) announced that they would give the same amount of cash to everyone below the median income. But because people need money asap and means-testing takes time, the mayor of Seoul decided to provide cash first and review their income later. It is important to deliver cash asap in a pandemic-driven economy because everyone is encouraged or ordered to stay home by the government, but they need money. 
+
+Another concern regarding the Kurzarbeitergeld system of any (un)employment-based system is that it cannot cover people who are not eligible. Part-time workers, gig workers, people who don't have gainful employment will be excluded. And these are one of the most vulnerable populations in the labor market. 
+
+-- What are the advantages of a UBI specifically as it relates to preventing the spread of COVID-19?
+
+No means testing (the universal aspect of UBI) and no work requirements (the unconditional aspect of UBI) are fundamentally different from existing benefits. These features allow the administration simpler, fast, and cheaper. 
+
+In a normal recession, people are encouraged to go out to spend money. In a pandemic-driven recession, people are encouraged to stay home. The government wants to shut down the economic and social activities to flatten the curve of Covid-19, but people can't shut down their livelihood. If the government wants people to practice social distancing, it has to make sure people (not just workers, everyone) can do so.
+
+-- Are countries that go for Kurzarbeitergeld rather than a UBI missing any key opportunities? How so?
+
+It is better than nothing, but there should be some emergency rules to override a slow vetting process to make it simpler and faster. Also, there should be other ways to cover people who are not eligible for the program. 
+
+-- Does a system like Kurzarbeitergeld, which is designed to keep employer-employee relationships intact, potentially keep people from moving to other opportunities? What are some ramifications of this?
+
+I am not sure how significant this lock-in effect is. In a normal recession, more highschool students go to college; more people go to graduate school. So I believe that Kurzarbeitergeldn may have some effect like that. But I just don't know how people react to a pandemic-driven economic downturn.  
+
+-- Some people have said that Kurzarbeitergeld keeps employers from simply laying off most of their workers, then selectively rehiring at lower staffing levels after a crisis has passed and that a UBI doesn't do that. Do you agree? 
+
+Yes, UBI, in its purest form, does not depend on the types of employment. 
+
+-- Regardless of whether a country goes with Kurzarbeitergeld or a UBI, what happens when the viral infections start to decline and the payments stop? 
+
+The U.S. top infectious disease expert, Dr. Anthony Fauci, said, "you don't make the timeline, the virus makes the timeline. So you've got to respond in what you see happen."  It seems like a two-week stay-in-home measure is not going to control the spread of Covid-19.  If it goes on a two-month lockdown, it will have a significant effect on controlling the virus. 
+
+Emergency measures should be in place while stay-in-shelter orders are in place. In the U.S., the federal government extended the length of unemployment benefits from 3 months to 4 months with emergency rules to include gig workers. Job-seeking activities as a condition for unemployment benefits should be waived. Other cash assistance for the poor (food stamps and TANF) should waive requirements and obligations in the middle of the epidemic. Local governments freeze mortgage payments and temporarily ban evicting renters. 
+
+While these are all being implemented to ease the economic impact on people, the government should prepare different economic scenarios to deal with the aftermath.  
+
+-- Kurzarbeitergeld has existed since the early 1900s. When did the idea of UBIs become something that people advocated for?
+
+This link shows the history of basic income. It started in the 14th century, but according to Guy Standing (University of London), the idea of "guaranteed minimum income" goes back to the 11th century with the Charter of Forest. 
+
+Here's a short history of UBI in the U.S. that I wrote in the LSE blog. In the U.S., there was a big moment in the 1960s, starting with Milton Friedman's Negative Income Tax proposal (1962). Then recently, automation and the 4th industrial revolution have been the motivation for introducing a UBI. Of course, last year, Andrew Yang running for the president in the Democratic primary with the platform "Freedom Dividend" (his brand of a UBI for the campaign) popularized the idea. 
+
+"The history of UBI in the U.S. is surprisingly rich and slightly confounding, as on its face such a scheme runs counter to the American ideal of resourceful individuals pulling themselves up by their bootstraps. And yet, American revolutionist Thomas Paine advocated a land-tax to fund a citizen dividend as compensation for "loss of his or her natural inheritance (Agrarian Justice 1795)." And in Progress and Poverty (1879), which at its peak was more widely read in the States than any book except the Bible, American journalist and economist Henry George proposed a dividend to all citizens funded by a land value tax.
+Fast forward a century, and the economist Milton Friedman in 1962 proposed a negative income tax to guarantee a minimum income for all Americans. He argued that such a move would end the "welfare trap" and reduce government bureaucracy via the efficiency of free markets. Civil rights icon Martin Luther King Jr. endorsed the guaranteed income policy in 1967, and in 1968, more than 1,200 economists signed a statement urging the U.S. Congress to introduce a system of income guarantees and supplements.
+Around the same time, political conservatives grew keen on the idea of a guaranteed minimum income. In 1969, President Richard Nixon, a Republican, proposed the Family Assistance Plan based on the negative income tax model. It was a "shift from thinking of welfare as a nonenforceable privilege over to thinking of it as a legal right to stated benefits in response to objectively determined needs." The plan would have provided an average family with a $1,600 per year, approximately $12,000 in 2020.  It was neither universal nor unconditional but was the closest the country ever got to a national UBI.
+In 1976, a truly universal and unconditional social dividend was enacted at the state level in Alaska. Voters there approved the Alaska Permanent Fund dividend. The state constitution was amended so that profits from Alaska's natural resources were distributed to all residents (with one-year residency requirement). Now, each year, Alaskans receive $1,000-$2,000 cash from the state, no strings attached.
+More recently, UBI has become a darling among some  Silicon Valley tech CEOs, who, in the face of automation, see it as an inevitable "social vaccine for the 21st Century." In 2019, businessman Andrew Yang ran for the Democratic Party's presidential nomination on a UBI platform that he branded the Freedom Dividend. Because Yang repeatedly qualified for televised debates, millions of Americans were exposed to UBI and its potential relevance in today's economy by an eloquent and passionate advocate."
+-- How does Europe's existing social safety net act as an advantage when choosing remedies for the virus-related economic slowdown? Are there any ways in which it acts as a disadvantage?
+
+The government should prepare an income maintenance system that is triggered by a declaration of a pandemic. When a stay-in-shelter order is declared, an automatic payment (e.g., $1,000 per person regardless of income, including children) is given to people in the affected area. Without income, people cannot comply with the order, or they will be in a dire financial situation if they follow the order. Also, mortgage and rent payments should be suspended if applicable. Schools should be prepared to move to online. Businesses should have a policy and playbook for a pandemic scenario. 
+
+The problem of today's Europe and North America is that they responded too late. South Korea, one of the best examples in controlling the spread of the virus, never ordered a stay-in-shelter order because when the first confirmed case was reported, the government did widespread and aggressive testing. So it is not just about fiscal and monetary policies to respond to a pandemic. It is also about how to handle a pandemic. It seems like we don't have a good playbook prepared for. Experts say this type of epidemic/pandemic is going to occur every so often in the future. Minimizing infection rates is the key to minimizing economic impact as well. 
+
+-- Do you feel I am leaving any big questions out?
+
+Some UBI advocates seem to sell the idea as a panacea. But I think UBI is a mere baseline. I don't think an emergency UBI or a regular(?) UBI should be interpreted as a solution. In an emergency like this, we should utilize the simplicity of UBI that does not require work and is given to everyone. The government ordered an economic shut-down (pretty much), but it wants to "stimulate" the economy (the senate bill passed in the U.S. last night is called a stimulus package). Right now, countries are looking for an effective reactionary economic remedy. That is why we debate what's better in the situation and why. 
+
+In the future, though, the government should respond to an epidemic more effectively so that it does not become a pandemic so that it does not need a stay-in-shelter policy. If we do need a stay-in-shelter order to stop going anywhere, they give people some cash to deal with the immediate impact and implement the short work (Kurzarbeitergeld) type of policy so that people can still keep their job until the situation is under control.
